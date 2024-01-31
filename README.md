@@ -1,1 +1,2 @@
 # DS-BizCardX-Extracting-Business-Card-Data-with-OCR
+In this streamlit web app you can upload an image of a business card and extract relevant information from it using pytesseract.You can view ,modify or delete the extracted data in this app.This app would also allow user to save extracted information into a database along with the uploaded business card image.The database would be able to store multiple entries,each with its own business card image and extracted infromation.
